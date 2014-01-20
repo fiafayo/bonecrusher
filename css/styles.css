@@ -1,0 +1,352 @@
+body {
+	margin-bottom: 0px;
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #525252;
+	border-color:#FF0000
+}
+
+
+td, textarea, input, select {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: 767676;
+	font-weight: normal;
+}
+
+.header_table {
+	border-width: 1px 1px 1px 1px;
+	border-spacing: 1px;
+	border-style: solid solid solid solid;
+	border-color: #35A3BE;
+	border-collapse: collapse;
+	background-color: #FFFFF0;
+}
+
+.login{
+	border-width: 1px 1px 1px 1px;
+	border-spacing: 1px;
+	border-style: solid solid solid solid;
+	border-color: #35A3BE;
+	border-collapse: collapse;
+	background-color: #FFFFF0;
+}
+
+.tombol_login {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight:bold;
+	color:#0099CC;
+	background-color: #CCCCCC;
+	border-right: 1px solid #0099CC;
+	border-bottom: 1px solid #0099CC;
+	border-top: 1px solid #0099CC;
+	border-left: 1px solid #0099CC;
+}
+
+.tombol_login:hover {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color:#0099CC;
+	background-color: #CCCCCC;
+	border-right: 1px solid #0099CC;
+	border-bottom: 1px solid #0099CC;
+	border-top: 1px solid #0099CC;
+	border-left: 1px solid #0099CC;
+	
+	cursor: pointer;
+	cursor: hand;
+	background-color: #FFFF00;
+}
+
+.jam {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CC0000;
+	background-color: #EEF5FB;
+	text-align: center;
+	font-weight: 100;
+	border: thin dashed #0099CC;
+}
+.tableDetail {
+	font-size: 10px;
+	font-family: Verdana;
+	color: #49394E;
+}
+a:link {
+	color: #000000;
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration: underline;
+
+}
+a:hover {
+	color: #F37F12;
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	border: thin none #FFFFFF;
+	text-decoration: underline;
+}
+a:visited {
+	color: #000000;
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	font-style: normal;
+
+}
+
+.textHeader {
+	font-family: arial;
+	font-size: 20px;
+	font-weight: bold;
+	color: FF9900;
+	
+}
+.text2 {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: 35A2BD;
+}
+.text3 {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000000;
+}
+.text4 {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: 777777;
+}
+.text5 {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: 6290A8;
+}
+.text6 {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: 949494;
+}
+.text7 {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+}
+.textLogin {
+    border: 1px inset #DDDDDD; 
+	font-size: 11px;
+	font-weight: bold; 
+	background-color: #CAE1F8;
+	
+}
+.text9 {
+	border-width: 1px 1px 1px 1px;
+	border-spacing: 1px;
+	border-style: dotted;
+	border-color: #35A3BE;
+	border-collapse: collapse;
+	background-color: #FFFFF0;
+}
+.frame {
+	border: 1px solid #DAEFF3;
+}
+.designed_by {
+	font-family: Arial;
+	font-size: 8.5px;
+	font-weight: lighter;
+	color: #000000;
+}
+a.a:link {
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color: 3F3F3F;
+	text-decoration: none;
+}
+a.a:hover {
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #63BDCE;
+	text-decoration: none;
+}
+a.a:visited {
+	font-family: verdana;
+	font-size: 12px;
+	font-weight: bold;
+	color: 3F3F3F;
+	text-decoration: none;
+}
+a.b:link {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: 35A2BD;
+	text-decoration: underline;
+}
+a.b:hover {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #ACCE37;
+	text-decoration: underline;
+}
+a.b:visited {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: 35A2BD;
+	text-decoration: underline;
+}
+a.c:link {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: 000000;
+	text-decoration: none;
+}
+a.c:hover {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FF0000;	
+	text-decoration: none;
+}
+a.c:visited {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	text-decoration: none;
+}
+a.d:link {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FF9900;
+	text-decoration: none;
+}
+a.d:hover {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #E4141A;
+	text-decoration: underline;
+}
+a.d:visited {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FF9900;
+	text-decoration: none;
+}
+a.e:link {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: 944F23;
+	text-decoration: underline;
+}
+a.e:hover {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #4E4E4E;
+	text-decoration: underline;
+}
+a.e:visited {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: 944F23;
+	text-decoration: underline;
+}
+a.f:link {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: 594B13;
+	text-decoration: underline;
+}
+a.f:hover {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #4E4E4E;
+	text-decoration: underline;
+}
+a.f:visited {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: 594B13;
+	text-decoration: underline;
+}
+a.g:link {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+}
+a.g:hover {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FF6600;
+	text-decoration: underline;
+}
+a.g:visited {
+
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: underline;
+}
+.inputstyle {
+	font-family: tahoma;
+	font-size: 10px;
+	font-weight: normal;
+	color: #35A2BD;
+	background-color: #FFFFFF;
+	border: 1px solid #35A2BD;
+}
+<!-- 
+aq:table
+{
+	width:100%;height:100%;border:1px red dotted; border-collapse:collapse
+}
+aq:td
+{
+	width:50%;height:50%;padding:1px; border:1px red dotted; vertical-align:top
+}
+-->

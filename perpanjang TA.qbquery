@@ -1,0 +1,14 @@
+﻿SELECT
+master_mhs.NRP,
+master_mhs.NAMA,
+perpanjang_ta.tgl_aju,
+perpanjang_ta.tgl_ulur,
+master_ta. KODOS1,
+master_ta. KODOS2
+
+FROM
+master_mhs, perpanjang_ta, master_ta
+WHERE
+master_mhs.NRP =  perpanjang_ta.NRP AND
+master_mhs.NRP =  master_ta.NRP AND
+master_mhs.NRP = '6984019';
